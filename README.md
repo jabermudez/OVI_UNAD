@@ -2,6 +2,6 @@
 
 Repositorio OVI Actividad Final Diseño de Sitios Web CON HTML5 Y CSS3 2017.
 
-## OVI 2017
+# OVI 2017
 
--[Seguridad Informática - OVI](https://jabermudez.github.io/OVISeguridad Informatica/OVI)
+[Seguridad Informatica OVI](https://jabermudez.github.io/OVISeguridad_Informatica/OVI)
